@@ -1,6 +1,2 @@
-Dockerfile
-.git
-.github
-.gitignore
-LICENSE
-README.md
+flask
+gunicorn
