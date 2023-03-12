@@ -1,2 +1,6 @@
-flask
-gunicorn
+Dockerfile
+.git
+.github
+.gitignore
+LICENSE
+README.md
